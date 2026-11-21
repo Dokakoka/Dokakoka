@@ -52,12 +52,11 @@ I like the unglamorous, high-impact parts of software: making a send pipeline su
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dokakoka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dokakoka&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-> Most of my work lives in private company repositories, so the numbers above undercount it. 400+ merged pull requests in the last year alone.
+> Most of my work lives in private company repositories. At my current company I've merged **400+ pull requests** in about a year.
 
 ## 🧭 Currently
 
