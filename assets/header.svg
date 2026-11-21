@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="0.55" stop-color="#14213d"/><stop offset="1" stop-color="#1b3a5c"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.15" cy="0.2" r="0.6"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.9" cy="0.9" r="0.6"><stop offset="0" stop-color="#c084fc" stop-opacity="0.35"/><stop offset="1" stop-color="#c084fc" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="1000" height="280" rx="18"/></clipPath>
+    <style>
+      .code{font:14px 'SFMono-Regular',Consolas,'Liberation Mono',monospace;fill:#7dd3fc;opacity:.0}
+      .c1{animation:rise 9s linear infinite}
+      .c2{animation:rise 11s linear infinite 2s}
+      .c3{animation:rise 13s linear infinite 5s}
+      .c4{animation:rise 10s linear infinite 7s}
+      .c5{animation:rise 12s linear infinite 1s}
+      @keyframes rise{0%{transform:translateY(300px);opacity:0}15%{opacity:.35}85%{opacity:.35}100%{transform:translateY(-40px);opacity:0}}
+      .title{font:700 64px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#name)}
+      .sub{font:500 22px 'SFMono-Regular',Consolas,'Liberation Mono',monospace;fill:#e2e8f0}
+      .tag{font:500 15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#94a3b8}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#glow1)"/>
+    <rect width="1000" height="280" fill="url(#glow2)"/>
+    <g stroke="#ffffff" stroke-opacity="0.04">
+      <path d="M0 70H1000M0 140H1000M0 210H1000M200 0V280M400 0V280M600 0V280M800 0V280"/>
+    </g>
+    <text class="code c1" x="60" y="0">queue.add('send', job)</text>
+    <text class="code c2" x="300" y="0">await webhook.verify(req)</text>
+    <text class="code c3" x="560" y="0">{ status: "delivered" }</text>
+    <text class="code c4" x="760" y="0">redis.publish(campaign)</text>
+    <text class="code c5" x="880" y="0">retry(backoff)</text>
+    <text class="title" x="60" y="130">Ahmed Morsy</text>
+    <text class="sub" x="62" y="176"><tspan fill="#a78bfa">&gt;</tspan> Full-Stack Developer<tspan class="cur" fill="#7dd3fc">_</tspan></text>
+    <text class="tag" x="62" y="214">Node.js · TypeScript · Queues · Integrations · WhatsApp APIs</text>
+    <g class="pulse"><circle cx="64" cy="244" r="5" fill="#34d399"/></g>
+    <text class="tag" x="80" y="249" fill="#34d399" style="fill:#6ee7b7">Open to remote opportunities · Cairo, UTC+2</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>

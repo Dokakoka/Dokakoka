@@ -1,71 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Morsy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Node.js%20%2F%20TypeScript&descAlignY=60&descSize=20" width="100%" alt="Ahmed Morsy banner" />
+<img src="assets/header.svg" alt="Ahmed Morsy — Full-Stack Developer" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=Building+queue-driven+back+ends+at+scale;Shipping+e-commerce+%26+WhatsApp+integrations;Turning+production+incidents+into+fixes;Open+to+remote+opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Morsy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-morsy-1767111a6)
-[![Email](https://img.shields.io/badge/Email-ahmedmorsi3634%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmorsi3634@gmail.com)
-![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-UTC%2B2-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to-Remote%20roles-blueviolet?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-morsy-1767111a6)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmorsi3634@gmail.com)
+![Remote](https://img.shields.io/badge/Open%20to-Remote%20roles-7c3aed?style=for-the-badge)
+
+<br/><br/>
+
+<img src="assets/terminal.svg" alt="about.json" width="82%" />
 
 </div>
 
-## 👋 About me
+<br/>
 
-I'm a **full-stack engineer** with 4+ years of experience. For the last two years I've worked on a **WhatsApp marketing and AI customer-service platform** for e-commerce brands. I own features end to end: TypeScript back ends, queue-driven pipelines, third-party integrations, React dashboards and production debugging.
+## ⚡ What I build
 
-I like the unglamorous, high-impact parts of software: making a send pipeline survive millions of recipients, making a webhook idempotent, and finding the one log line that explains an incident.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 What I work on
+### 📨 Messaging at scale
+Campaign pipelines for multi-million-recipient sends: shared send budgets, per-chunk job fan-out, and recovery of jobs orphaned by deploys.
 
-| | |
-|---|---|
-| 📨 **Messaging at scale** | Multi-million-recipient campaign pipelines, shared send budgets, per-chunk job fan-out, recovery of jobs orphaned by deploys |
-| 🔌 **Integrations** | Shopify, Shopware 6, WooCommerce, Magento, Klaviyo, HubSpot, Zendesk, Emarsys: OAuth, webhooks, retries, rate limits |
-| 💬 **WhatsApp Cloud API** | Meta Embedded Signup, WABA onboarding, status-webhook processing, template management |
-| 🔐 **Reliability & security** | Secret-safe logging, run-time credential resolution, Sentry triage, structured logs with correlation IDs |
-| 🤖 **AI features** | Chatbot prompt pipelines, tool-calling surfaces for customer accounts, voice-agent services |
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech stack
+### 🔌 Integrations
+Shopify, Shopware 6, WooCommerce, Magento, Klaviyo, HubSpot, Zendesk and Emarsys, with OAuth, idempotent webhooks, retries and rate limits.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 WhatsApp Cloud API
+Meta Embedded Signup, WABA onboarding, template management and status-webhook processing.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Reliability & security
+Secret-safe logging, run-time credential resolution, Sentry triage and structured logs with correlation IDs.
+
+</td>
+</tr>
+</table>
+
+## 🧰 Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-E8344E?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,mongodb,redis,python,php,aws,githubactions,jest&perline=12" alt="Tech stack" />
 
 </div>
 
-## 📊 GitHub stats
+<sub>Also: BullMQ · Socket.io · Joi/Zod · Mongoose · Atlas Search · Sentry · PM2</sub>
+
+## 🔥 Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dokakoka&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dokakoka&theme=tokyonight&hide_border=true&background=0D111700" alt="GitHub streak" height="170" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dokakoka/Dokakoka/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dokakoka/Dokakoka/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Dokakoka/Dokakoka/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>Most of my work lives in private company repositories.</sub>
 
 </div>
 
-> Most of my work lives in private company repositories. At my current company I've merged **400+ pull requests** in about a year.
-
-## 🧭 Currently
+## 🧭 Right now
 
 - 🔭 Building public side projects around queues, webhooks and WhatsApp tooling
 - 🌱 Going deeper on distributed systems and LLM tooling
 - 💼 Looking for a **remote** full-stack / back-end role with a product team
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
-
+<br/>
+<sub>Thanks for stopping by ✌️</sub>
 </div>

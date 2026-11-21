@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <defs>
+    <style>
+      .m{font:15px 'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+      .p{fill:#a78bfa}.k{fill:#7dd3fc}.v{fill:#fcd34d}.t{fill:#e2e8f0}.d{fill:#64748b}.g{fill:#6ee7b7}
+      .l{opacity:0;animation:show .01s linear forwards}
+      .l1{animation-delay:.3s}.l2{animation-delay:1s}.l3{animation-delay:1.4s}.l4{animation-delay:1.8s}
+      .l5{animation-delay:2.2s}.l6{animation-delay:2.6s}.l7{animation-delay:3.2s}.l8{animation-delay:3.6s}.l9{animation-delay:4s}
+      @keyframes show{to{opacity:1}}
+      .cur{animation:blink 1s steps(1) infinite 4.2s}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="900" height="330" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0 14a14 14 0 0 1 14-14h872a14 14 0 0 1 14 14v26H0z" fill="#161b22"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/><circle cx="48" cy="20" r="6" fill="#ffbd2e"/><circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text class="m d" x="360" y="25" font-size="13">ahmed@dev: ~/profile</text>
+  <g class="m">
+    <text class="l l1" x="28" y="76"><tspan class="p">$</tspan> <tspan class="t">cat about.json</tspan></text>
+    <text class="l l2" x="28" y="108"><tspan class="t">{</tspan></text>
+    <text class="l l3" x="52" y="132"><tspan class="k">"role"</tspan><tspan class="t">: </tspan><tspan class="v">"Full-Stack Developer"</tspan><tspan class="t">,</tspan></text>
+    <text class="l l4" x="52" y="156"><tspan class="k">"experience"</tspan><tspan class="t">: </tspan><tspan class="v">"4+ years"</tspan><tspan class="t">,</tspan></text>
+    <text class="l l5" x="52" y="180"><tspan class="k">"focus"</tspan><tspan class="t">: [</tspan><tspan class="v">"queues"</tspan><tspan class="t">, </tspan><tspan class="v">"integrations"</tspan><tspan class="t">, </tspan><tspan class="v">"WhatsApp APIs"</tspan><tspan class="t">],</tspan></text>
+    <text class="l l6" x="52" y="204"><tspan class="k">"shipped"</tspan><tspan class="t">: </tspan><tspan class="v">"400+ merged PRs in ~1 year"</tspan><tspan class="t">,</tspan></text>
+    <text class="l l7" x="52" y="228"><tspan class="k">"scale"</tspan><tspan class="t">: </tspan><tspan class="v">"7M-recipient campaign load test"</tspan><tspan class="t">,</tspan></text>
+    <text class="l l8" x="52" y="252"><tspan class="k">"availability"</tspan><tspan class="t">: </tspan><tspan class="g">"open to remote roles"</tspan></text>
+    <text class="l l8" x="28" y="276"><tspan class="t">}</tspan></text>
+    <text class="l l9" x="28" y="306"><tspan class="p">$</tspan> <tspan class="cur t">█</tspan></text>
+  </g>
+</svg>
