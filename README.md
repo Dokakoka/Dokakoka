@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=640&lines=Building+queue-driven+back+ends+at+scale;Shipping+e-commerce+%26+WhatsApp+integrations;Turning+production+incidents+into+fixes;Open+to+remote+opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Morsy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-morsy-1767111a6)
-[![Email](https://img.shields.io/badge/Email-ahmed%40chatarmin.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@chatarmin.com)
+[![Email](https://img.shields.io/badge/Email-ahmedmorsi3634%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmorsi3634@gmail.com)
 ![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-UTC%2B2-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open%20to-Remote%20roles-blueviolet?style=for-the-badge)
 
